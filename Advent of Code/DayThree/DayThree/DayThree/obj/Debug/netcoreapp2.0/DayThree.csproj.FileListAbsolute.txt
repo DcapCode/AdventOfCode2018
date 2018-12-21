@@ -1,0 +1,11 @@
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\bin\Debug\netcoreapp2.0\DayThree.deps.json
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\bin\Debug\netcoreapp2.0\DayThree.runtimeconfig.json
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\bin\Debug\netcoreapp2.0\DayThree.runtimeconfig.dev.json
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\bin\Debug\netcoreapp2.0\DayThree.dll
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\bin\Debug\netcoreapp2.0\DayThree.pdb
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\obj\Debug\netcoreapp2.0\DayThree.csprojAssemblyReference.cache
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\obj\Debug\netcoreapp2.0\DayThree.csproj.CoreCompileInputs.cache
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\obj\Debug\netcoreapp2.0\DayThree.AssemblyInfoInputs.cache
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\obj\Debug\netcoreapp2.0\DayThree.AssemblyInfo.cs
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\obj\Debug\netcoreapp2.0\DayThree.dll
+C:\Development\Advent of Code\DayThree\DayThree\DayThree\obj\Debug\netcoreapp2.0\DayThree.pdb
